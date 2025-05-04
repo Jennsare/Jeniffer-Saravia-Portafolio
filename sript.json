@@ -1,0 +1,10 @@
+{
+    "hosting": {
+      "public": "public": "Pagina Web Jeniffer saravia",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    }
+  }
